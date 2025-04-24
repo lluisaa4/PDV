@@ -1,0 +1,99 @@
+[Data/Hora........] 23/02/2023 15:40:06
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......]PageAbrirCaixa
+[Unit.............]Vcl.ExtCtrls
+[Component Visual.]pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 23/02/2023 15:43:33
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 23/02/2023 15:49:44
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 23/02/2023 15:49:53
+[Mensagem.........] Cannot create file "D:\MyRepository\ac-pdv\bin\LOGS\ACPDV.log\23022023154944.jpg". O sistema não pode encontrar o caminho especificado
+[Classe Exceção...] EFCreateError
+[Data/Hora........] 23/02/2023 15:50:24
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 23/02/2023 16:03:12
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 23/02/2023 16:04:19
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 23/02/2023 16:04:34
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 23/02/2023 16:06:18
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] pnlTitle
+----------------------------------------------------------------------
+
+[Data/Hora........] 15/04/2025 10:37:07
+[Mensagem.........] [FireDAC][Comp][Clnt]-340. Driver ID is not defined. Set TFDConnection.DriverName or add DriverID to your connection definition
+[Classe Exceção...] EFDException
+[Formulário.......] 
+[Unit.............] acpdv.model.conexao
+[Component Visual.] edtUserName
+----------------------------------------------------------------------
+
+[Data/Hora........] 15/04/2025 10:37:08
+[Mensagem.........] Access violation at address 00581192 in module 'ACPDV.exe'. Read of address 24698B8F
+[Classe Exceção...] EAccessViolation
+[Formulário.......] pageprincipal
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] edtUserName
+----------------------------------------------------------------------
+
+[Data/Hora........] 15/04/2025 10:37:11
+[Mensagem.........] External exception C000001D
+[Classe Exceção...] EExternalException
+[Formulário.......] pageprincipal
+[Unit.............] Vcl.StdCtrls
+[Component Visual.] edtProduto
+----------------------------------------------------------------------
+
+[Data/Hora........] 15/04/2025 10:37:23
+[Mensagem.........] '' is not a valid integer value
+[Classe Exceção...] EConvertError
+[Formulário.......] PageAbrirCaixa
+[Unit.............] Vcl.ExtCtrls
+[Component Visual.] edtQuantidade
+----------------------------------------------------------------------
+
